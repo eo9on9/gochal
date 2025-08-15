@@ -10,7 +10,7 @@
 
 ## 목차
 
-1. [컴포넌트의 탄생과 죽음에 애니메이션 주기](https://github.com/eo9on9/gochal/docs/01-animation_with_birth_and_death.md)
+1. [컴포넌트의 탄생과 죽음에 애니메이션 주기](https://github.com/eo9on9/gochal/blob/main/docs/01-animation_with_birth_and_death.md)
 
 2. B
 
