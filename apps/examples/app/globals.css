@@ -1,0 +1,13 @@
+@import './normalize.css';
+
+:root {
+  --font-pretendard: var(--font-pretendard);
+}
+
+* {
+  color: #333;
+}
+
+body {
+  margin: 24px;
+}
