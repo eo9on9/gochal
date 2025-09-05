@@ -14,6 +14,6 @@
 
 1. [컴포넌트의 등장과 퇴장에 애니메이션 주기](https://morning-stone-025.notion.site/1-261e1b2593048027b49acf5e184f3a3b?pvs=74)
 
-2. B
+2. [리렌더링?](https://morning-stone-025.notion.site/2-261e1b259304800db21ccfd59d5164c0?pvs=74)
 
 3. C
