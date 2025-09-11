@@ -16,4 +16,6 @@
 
 2. [리렌더링?](https://morning-stone-025.notion.site/2-261e1b259304800db21ccfd59d5164c0?pvs=74)
 
-3. C
+3. [리액트 컨텍스트는 안좋다?](https://morning-stone-025.notion.site/3-265e1b259304803580baed577f814c61?pvs=74)
+
+4.
