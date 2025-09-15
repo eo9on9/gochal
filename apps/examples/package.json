@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@repo/ui": "workspace:*",
+    "@repo/ui-tailwind": "workspace:*",
+    "@repo/ui-tailwind-build": "workspace:*",
     "clsx": "^2.1.1",
     "next": "^15.4.2",
     "react": "^19.1.0",
@@ -22,10 +24,13 @@
     "@repo/eslint-config": "workspace:*",
     "@repo/prettier-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
+    "@tailwindcss/postcss": "^4.1.13",
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.1",
     "eslint": "^9.33.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
     "typescript": "5.9.2"
   }
 }

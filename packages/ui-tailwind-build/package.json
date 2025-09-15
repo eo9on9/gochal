@@ -1,0 +1,33 @@
+{
+  "name": "@repo/ui-tailwind-build",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    "./*": "./dist/*.js",
+    "./styles.css": "./dist/styles.css"
+  },
+  "scripts": {
+    "dev:styles": "tailwindcss -i ./src/styles.css -o ./dist/styles.css --watch",
+    "dev:components": "tsc --watch",
+    "build:styles": "tailwindcss -i ./src/styles.css -o ./dist/styles.css",
+    "build:components": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jotai": "^2.12.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "workspace:*",
+    "@repo/typescript-config": "workspace:*",
+    "@tailwindcss/cli": "^4.1.13",
+    "@types/node": "^22.15.3",
+    "@types/react": "19.1.0",
+    "@types/react-dom": "19.1.1",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
+  }
+}
