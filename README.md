@@ -18,4 +18,6 @@
 
 3. [리액트 컨텍스트는 안좋다?](https://morning-stone-025.notion.site/3-265e1b259304803580baed577f814c61?pvs=74)
 
-4.
+4. [모노레포는 효율적이다?](https://morning-stone-025.notion.site/4-26be1b25930480b69b67d424bc82d505?pvs=74)
+
+5. [TODO] NextJS를 빌드하면 뭐가 나올까?
