@@ -20,4 +20,6 @@
 
 4. [모노레포는 효율적이다?](https://morning-stone-025.notion.site/4-26be1b25930480b69b67d424bc82d505?pvs=74)
 
-5. [TODO] NextJS를 빌드하면 뭐가 나올까?
+5. [Next.js를 빌드하면 뭐가 나올까?](https://morning-stone-025.notion.site/5-Next-js-26be1b259304802d966cda4d7ca7183b?pvs=74)
+
+6. [TODO] DTO 그대로 쓰지 말기
