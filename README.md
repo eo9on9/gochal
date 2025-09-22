@@ -8,7 +8,7 @@
 
 아직 서투른 것들의 모음이다.
 
-고찰의 깊이가 얕아 훈수(?)를 두고 싶다면 언제나 환영입니다. 👉🏻 [eo9on9@gmail.com](mailto:eo9on9@gmail.com)
+깊지 않을 수 있는 고찰에 가르침(?)은 언제나 환영입니다. 👉🏻 [eo9on9@gmail.com](mailto:eo9on9@gmail.com)
 
 ## 목차
 
@@ -22,4 +22,4 @@
 
 5. [Next.js를 빌드하면 뭐가 나올까?](https://morning-stone-025.notion.site/5-Next-js-26be1b259304802d966cda4d7ca7183b?pvs=74)
 
-6. [TODO] DTO 그대로 쓰지 말기
+6. [TODO] DTO 그대로 쓰지 않기
