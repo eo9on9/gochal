@@ -8,7 +8,7 @@
 
 아직 서투른 것들의 모음이다.
 
-깊지 않을 수 있는 고찰에 가르침(?)은 언제나 환영입니다. 👉🏻 [eo9on9@gmail.com](mailto:eo9on9@gmail.com)
+어수룩한 고찰일 수 있기에 가르침(?)은 언제나 환영입니다. 👉🏻 [eo9on9@gmail.com](mailto:eo9on9@gmail.com)
 
 ## 목차
 
