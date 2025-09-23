@@ -1,0 +1,23 @@
+.page dl {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 8px;
+  border: 2px solid #333;
+  border-radius: 4px;
+}
+
+.page dl > div {
+  display: flex;
+  align-items: center;
+}
+
+.page dl dt {
+  font-weight: bold;
+  width: 60px;
+}
+
+.try {
+  padding-left: 24px;
+  margin-bottom: 32px;
+}

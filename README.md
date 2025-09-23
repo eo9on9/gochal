@@ -22,4 +22,6 @@
 
 5. [Next.js를 빌드하면 뭐가 나올까?](https://morning-stone-025.notion.site/5-Next-js-26be1b259304802d966cda4d7ca7183b?pvs=74)
 
-6. [TODO] DTO 그대로 쓰지 않기
+6. [DTO 그대로 쓰지 않기](https://morning-stone-025.notion.site/6-DTO-276e1b259304808fb528fed90a43d995?pvs=74)
+
+7. [TODO] 도메인 모델과 API 응답 모델
