@@ -24,4 +24,6 @@
 
 6. [API 응답 모델 그대로 쓰지 않기](https://morning-stone-025.notion.site/6-DTO-276e1b259304808fb528fed90a43d995?pvs=74)
 
-7. [TODO] 도메인 모델과 API 응답 모델
+7. [도메인 모델과 API 응답 모델](https://morning-stone-025.notion.site/7-API-277e1b2593048017a2a2c46092787963?pvs=74)
+
+8. [TODO] 리액트 서스펜스와 스켈레톤
