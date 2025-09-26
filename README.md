@@ -26,4 +26,6 @@
 
 7. [도메인 모델과 API 응답 모델](https://morning-stone-025.notion.site/7-API-277e1b2593048017a2a2c46092787963?pvs=74)
 
-8. [TODO] 리액트 서스펜스와 스켈레톤
+8. [리액트 서스펜스의 마법](https://morning-stone-025.notion.site/8-278e1b2593048048aedde970d9bf11f6)
+
+9. [TODO] 리액트 에러 바운더리는 왜 아직 클래스 컴포넌트일까?
